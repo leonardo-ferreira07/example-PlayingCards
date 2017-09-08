@@ -1,0 +1,12 @@
+{
+  "autoPin": true,
+  "pins": [
+    {
+      "package": "PlayingCard",
+      "reason": null,
+      "repositoryURL": "https://github.com/apple/example-package-playingcard",
+      "version": "3.0.2"
+    }
+  ],
+  "version": 1
+}
